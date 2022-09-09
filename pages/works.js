@@ -2,7 +2,7 @@ import { Container, Box, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-items'
 
-import thumnFlaskApp from '../public/images/contents/works/login-screen.png'
+import thumnFlaskApp from '../public/images/works/flask-web-app-template.png'
 
 const Works = () => {
   return (
